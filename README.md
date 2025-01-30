@@ -9,4 +9,4 @@ This repository serves as a centralized and organized collection of all my certi
 Feel free to browse through the files to see the various certificates. Each certificate is named and organized by date and category for easy reference.
 
 ## Contact
-If you have any questions or would like more information about any of the certificates, please feel free to contact me at amirhossein.zamani@concordia.ca.
+If you have any questions or would like more information about any of the certificates, please feel free to contact me at amirhossein.zamani@mila.quebec.
